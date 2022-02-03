@@ -26,9 +26,9 @@ Checkout the [docs](https://github.com/pokey/cursorless-talon/blob/main/docs) an
 
 And I heard you like GIFs?
 
-![Curly repack ox](images/curlyRepackOx.gif)
-![Move arg air and each to after drum](images/moveArgAirAndEachToAfterDrum.gif)
-![Chuck tail red pipe slice past end of file](images/chuckTailRedPipeSlicePastEndOfFile.gif)
+![Curly repack ox](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/curlyRepackOx.gif)
+![Move arg air and each to after drum](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/moveArgAirAndEachToAfterDrum.gif)
+![Chuck tail red pipe slice past end of file](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/chuckTailRedPipeSlicePastEndOfFile.gif)
 
 ## Installation
 
@@ -36,31 +36,3 @@ Currently depends on [Talon](https://talonvoice.com/), though a keyboard
 version is planned.
 
 See [cursorless-talon](https://github.com/pokey/cursorless-talon) for installation instructions.
-
-## Extension Settings
-
-This extension contributes the following settings:
-
-- `cursorless.showOnStart`: Whether decorations should appear on workspace start
-- `cursorless.hatSizeAdjustment`: Percentage to increase or decrease hat size; positive increases size
-- `cursorless.hatVerticalOffset`: How much to vertically shift the hats as a percentage of font size; positive is up
-- `cursorless.hatEnablement.colors`: Whether to enable particular hat colors.
-- `cursorless.hatEnablement.shapes`: Whether to enable particular hat shapes.
-- `cursorless.hatPenalties.colors`: How much to penalize each hat color. You will probably want to set this one to the number of syllables in the given style. Cursorless will then sort every style combination by number of syllables to refer to it.
-- `cursorless.hatPenalties.shapes`: How much to penalize each hat shape. You will probably want to set this one to the number of syllables in the given style. Cursorless will then sort every style combination by number of syllables to refer to it.
-
-## Known Issues
-
-- Cursorless calculates the position of the hats based on the characteristics of your font. If you find that the hats are off center you can try running this command: `cursorless.recomputeDecorationStyles`
-
-## Change Log
-
-See [CHANGELOG.md](CHANGELOG.md).
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Attributions
-
-See [NOTICE.md](NOTICE.md).
