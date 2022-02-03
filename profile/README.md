@@ -22,17 +22,13 @@
 
 Cursorless is a spoken language for structural code editing, enabling developers to code by voice at speeds not possible with a keyboard. Cursorless decorates every token on the screen and defines a spoken language for rapid, high-level semantic manipulation of structured text.
 
-Checkout the [docs](https://github.com/pokey/cursorless-talon/blob/main/docs) and [videos](https://www.youtube.com/channel/UCML02pamUSxtbwAcrUdVmXg) to learn more. See [cursorless-talon](https://github.com/pokey/cursorless-talon) for installation instructions.
+Checkout the [Cursorless extension](https://marketplace.visualstudio.com/items?itemName=pokey.cursorless) to learn more.
 
-And I heard you like GIFs?
-
+<details>
+ <summary><i>Just here for the GIFS?<i></summary>
+  
 ![Curly repack ox](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/curlyRepackOx.gif)
 ![Move arg air and each to after drum](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/moveArgAirAndEachToAfterDrum.gif)
 ![Chuck tail red pipe slice past end of file](https://github.com/cursorless-dev/cursorless-vscode/raw/main/images/chuckTailRedPipeSlicePastEndOfFile.gif)
-
-## Installation
-
-Currently depends on [Talon](https://talonvoice.com/), though a keyboard
-version is planned.
-
-See [cursorless-talon](https://github.com/pokey/cursorless-talon) for installation instructions.
+  
+</details>
